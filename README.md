@@ -46,5 +46,12 @@ Abdessamad - full stack devrelopper student with a keen eye for clean and respon
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cd-wb&label=Profile%20views&color=yellowgreen&style=for-the-badge" alt="Abdessamad" /> </p>
 
+## Contact with ME 
+
+<div align= "center">
+	[![Gmail: Abdessamad](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pro.cyber.gr@gmail.com)](mailto:pro.cyber.gr@gmail.com)&nbsp;
+	[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/kop-left)](https://www.frontendmentor.io/profile/kop-left)&nbsp;
+</div>
+
 
 
