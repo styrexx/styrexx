@@ -1,4 +1,4 @@
-<h1> <img src="content/icones8-title.gif" alt="icone-title">  Abdessamad [cd-wb]</h1>
+<h1>👾  Abdessamad [cd-wb]</h1>
 
 `  Web craftsman  `
 
