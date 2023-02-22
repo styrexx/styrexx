@@ -6,8 +6,9 @@
 
 Abdessamad - full stack devrelopper student with a keen eye for clean and responsive design. Committed to creating fast, scalable, and user-friendly web applications that provide a great user experience. Collaborative team player with excellent communication skills and a passion for staying up-to-date with the latest industry trends and best practices.
 
-<img align="right" alt="IMAGE" src="content/Code-typing-bro.svg" width=400px"/>
+<img align="right" alt="IMAGE" src="content/Code-typing-bro.svg" width=360px"/>
 
+<br>
 <br>
 
 - ⏳ I’m currently studying on becoming a full-stack-developement 
@@ -22,7 +23,6 @@ Abdessamad - full stack devrelopper student with a keen eye for clean and respon
 
 <br>
 <br>
-
 
 ### 🧰 Backup (languages and tools)
 
