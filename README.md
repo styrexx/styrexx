@@ -21,7 +21,7 @@
 
 - 💬  Feel free to ask me about **HTML5 & CSS3**
 
-- 🌟  Fun fact : I love build sumting new `Idea becoming project becoming real`
+- 🌟  Fun fact : I love build something new `Idea\\Project\\Real`
 
 
 <br>
