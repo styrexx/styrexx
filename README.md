@@ -2,8 +2,7 @@
 
 `  Web craftsman  `
 
-<p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=30AE33&repeat=false&width=435&lines=Hi+there%2C+You+%3Cwelcome%2F%3E+)](https://git.io/typing-svg)</p>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2DA934&width=430&lines=Hi+there%2C+You+%3Cwelcome%2F%3E" alt="Typing SVG" /></a>
 
 <p align="center" ><strong>Abdessamad</strong> [cd-wb] - full stack devrelopper student with a keen eye for clean and responsive design. Committed to creating fast, scalable, and user-friendly web applications that provide a great user experience. Collaborative team player with excellent communication skills and a passion for staying up-to-date with the latest industry trends and best practices.</p>
 
