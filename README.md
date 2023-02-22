@@ -21,8 +21,6 @@ Abdessamad - full stack devrelopper student with a keen eye for clean and respon
 - 🌟  Fun fact : I love build sumting new [Idea becoming project becomming real]
 
 <br>
-<br>
-
 
 ## 🧰 Backup (languages and tools)
 
