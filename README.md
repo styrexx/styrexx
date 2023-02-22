@@ -14,7 +14,7 @@ Abdessamad - full stack devrelopper student with a keen eye for clean and respon
 
 <br>
 
-- ⏳ I’m currently studying on becoming a full-stack-developement 
+- ⏳ I’m currently studying a **full stack developer**
 
 - 👀  Some my projects in [Frontend Mentor](https://www.frontendmentor.io/home/my-challenges)
 
