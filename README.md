@@ -3,7 +3,7 @@
 `  Web CRAFT  `
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=4000&color=36B82E&width=435&lines=Hi+there+you+%3Cwelcome%2F%3E)](https://git.io/typing-svg)
-<p align="center" ><strong style="color:#eee">Abdessamad</strong> [cd-wb] - full stack devrelopper student with a keen eye for clean and responsive design. Committed to creating fast, scalable, and user-friendly web applications that provide a great user experience. Collaborative team player with excellent communication skills and a passion for staying up-to-date with the latest industry trends and best practices.</p>
+<p align="center" ><strong>Abdessamad</strong> [cd-wb] - full stack devrelopper student with a keen eye for clean and responsive design. Committed to creating fast, scalable, and user-friendly web applications that provide a great user experience. Collaborative team player with excellent communication skills and a passion for staying up-to-date with the latest industry trends and best practices.</p>
 
 ##
 <br>
