@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=4000&color=36B82E&width=435&lines=Hi+there+you+%3Cwelcome%2F%3E)](https://git.io/typing-svg)
 
-## How Is Abdessamd 
+### How is Abdessamd ?
 <p>I’m an exceptional full-stack developer student who possesses a keen eye for clean and responsive design. with a commitment to creating fast, scalable, and user-friendly web applications are truly impressive. I’m passionate about providing a great user experience and always strive to stay up-to-date with the latest. industry trends and best practices.</p>
 
 ##
@@ -17,13 +17,13 @@
 
 - ⏳ I’m currently studying a **full stack developer**
 
-- 👀  Some my projects in [Frontend Mentor](https://www.frontendmentor.io/home/my-challenges)
+- 👀  Some my projects for frontend in [Frontend Mentor](https://www.frontendmentor.io/home/my-challenges)
 
 - 📥  How to reach me **pro.cyber.gr@gmail.com**
 
 - 💬  Feel free to ask me about **HTML5 & CSS3**
 
-- 🌟  Fun fact : I love build something new `Idea\\Project\\Real`
+- 🌟  Fun fact : I love build something new ``Idea\\Project\\Real``
 
 
 <br>
