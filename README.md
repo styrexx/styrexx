@@ -7,7 +7,6 @@
 ## ❓ How is Abdessamd ?
 <p>I’m an exceptional full-stack developer student who possesses a keen eye for clean and responsive design. with a commitment to creating fast, scalable, and user-friendly web applications are truly impressive. I’m passionate about providing a great user experience and always strive to stay up-to-date with the latest. industry trends and best practices.</p>
 
-##
 <br>
 
 
