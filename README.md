@@ -8,7 +8,8 @@
 <p>I’m an exceptional full-stack developer student who possesses a keen eye for clean and responsive design. with a commitment to creating fast, scalable, and user-friendly web applications are truly impressive. I’m passionate about providing a great user experience and always strive to stay up-to-date with the latest. industry trends and best practices.</p>
 
 
-<img align="right" alt="IMAGE" src="content/Code-typing-bro.svg" width="350px"/>
+<!-- <img  alt="IMAGE"align="right" width="350px"  src="content/Code-typing-bro.svg" /> -->
+<script align="right" width="350px" type='text/javascript'>document.addEventListener('DOMContentLoaded', function () {window.setTimeout(document.querySelector('svg').classList.add('animated'),1000);})</script>
 
 <br>
 
