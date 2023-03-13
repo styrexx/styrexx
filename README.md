@@ -9,7 +9,7 @@
 
 
 <!-- <img  alt="IMAGE"align="right" width="350px"  src="content/Code-typing-bro.svg" /> -->
-<script align="right" width="350px" type='text/javascript'>document.addEventListener('DOMContentLoaded', function () {window.setTimeout(document.querySelector('svg').classList.add('animated'),1000);})</script>
+<script  type='text/javascript'>document.addEventListener('DOMContentLoaded', function () {window.setTimeout(document.querySelector('svg').classList.add('animated'),1000);})</script>
 
 <br>
 
