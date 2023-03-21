@@ -12,7 +12,7 @@
 
 <br>
 
-- ⏳ I’m currently studying a **full stack developer**
+- ⏳ I’m currently studying a **Front End Developer**
 
 - 👀  Some my projects for frontend in [Frontend Mentor](https://www.frontendmentor.io/home/my-challenges)
 
