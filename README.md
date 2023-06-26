@@ -1,4 +1,4 @@
-<h1>✦ Abdessamad [styrexX]</h1>
+<h1>✦ Abdessamad [styrexx]</h1>
 
 `  Web CRAFT  `
 
