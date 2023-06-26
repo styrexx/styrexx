@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=4000&color=36B82E&width=435&lines=Hi+there+you+%3Cwelcome%2F%3E)](https://git.io/typing-svg)
 
 ## ❓ How is Abdessamd ?
-<p>I’m an exceptional full-stack developer student who possesses a keen eye for clean and responsive design. with a commitment to creating fast, scalable, and user-friendly web applications are truly impressive. I’m passionate about providing a great user experience and always strive to stay up-to-date with the latest. industry trends and best practices.</p>
+<p>I’m an exceptional Front-End developer studying who possesses a keen eye for clean and responsive design. with a commitment to creating fast, scalable, and user-friendly web applications are truly impressive. I’m passionate about providing a great user experience and always strive to stay up-to-date with the latest. industry trends and best practices.</p>
 
 
 <img  alt="IMAGE" align="right" width="350px"  src="content/Code-typing-bro.svg" />
