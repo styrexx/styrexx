@@ -52,5 +52,5 @@
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/kop-left)](https://www.frontendmentor.io/profile/kop-left)&nbsp;
 </div>
 
-<p style="text-align:center color:lightgreen" alt="Logo"> ✦ </p>
+<p style="text-align: center color:lightgreen" alt="Logo"> ✦ </p>
 
