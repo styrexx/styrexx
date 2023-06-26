@@ -1,4 +1,4 @@
-<h1>👾  Abdessamad [cd-wb]</h1>
+<h1>✦ Abdessamad [styrexX]</h1>
 
 `  Web CRAFT  `
 
@@ -14,13 +14,13 @@
 
 - ⏳ I’m currently studying a **Front End Developer**
 
-- 👀  Some my projects for frontend in [Frontend Mentor](https://www.frontendmentor.io/home/my-challenges)
+- 👀 Some my projects for frontend in [Frontend Mentor](https://www.frontendmentor.io/home/my-challenges)
 
-- 📥  How to reach me **pro.cyber.gr@gmail.com**
+- 📥 How to reach me **pro.cyber.gr@gmail.com**
 
-- 💬  Feel free to ask me about **HTML5 & CSS3**
+- 💬 Feel free to ask me about **HTML5 & CSS3**
 
-- 🌟  Fun fact : I love build something new ``Idea\\Project\\Real``
+- 🌟 Fun fact : I love build something new ``Idea\\Project\\Real ✦ ``
 
 
 <br>
@@ -52,5 +52,5 @@
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/kop-left)](https://www.frontendmentor.io/profile/kop-left)&nbsp;
 </div>
 
-
+<p style="text-align:center color:lightgreen" alt="Logo"> ✦ </p>
 
