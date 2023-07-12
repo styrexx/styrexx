@@ -40,9 +40,9 @@
 
 ## 📊 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cd-wb&hide_progress=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=styrexx&hide_progress=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cd-wb&label=Profile%20views&color=yellowgreen&style=for-the-badge" alt="Abdessamad" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=styrexx&label=Profile%20views&color=yellowgreen&style=for-the-badge" alt="Abdessamad" /> </p>
 
 ## 📮 Contact with ME 
 
