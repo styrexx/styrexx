@@ -14,11 +14,7 @@
 
 - ⏳ I’m currently studying a **Front End Developer**
 
-- 👀 Some my projects for frontend in [Frontend Mentor](https://www.frontendmentor.io/home/my-challenges)
-
 - 📥 How to reach me **pro.cyber.gr@gmail.com**
-
-- 💬 Feel free to ask me about **HTML5 & CSS3**
 
 - 🌟 Fun fact : I love build something new `Idea\\Project\\Real ✦ `
 
