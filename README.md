@@ -1,4 +1,4 @@
-<h1>✦ Abdessamad [styrexx]</h1>
+<h1>Abdessamad [styrexx]</h1>
 
 `Web CRAFT`
 
@@ -46,4 +46,4 @@
 
 </div>
 
-<p align="center" alt="Logo"> ✦ </p>
+<p align="center" alt="Logo" > ✦ </p>
