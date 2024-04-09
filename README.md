@@ -1,18 +1,12 @@
-<h1>Abdessamad [styrexx]</h1>
+<h1>Abdessamad / styrexx </h1>
 
-`Web CRAFT`
+`WEB CRAFTER`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=4000&color=36B82E&width=435&lines=Hi+there+you+%3Cwelcome%2F%3E)](https://git.io/typing-svg)
+## How is Abdessamad ?
 
-## ❓ How is Abdessamd ?
+I’m an exceptional Front-End developer who possesses a keen eye for clean and responsive design. with a **commitment to creating fast, scalable, and user-friendly web applications** are truly impressive. I’m **passionate** about providing a great user experience and always strive to **stay up-to-date** with the latest. industry trends and _best practices_.
 
-<p>I’m an exceptional Front-End developer studying who possesses a keen eye for clean and responsive design. with a commitment to creating fast, scalable, and user-friendly web applications are truly impressive. I’m passionate about providing a great user experience and always strive to stay up-to-date with the latest. industry trends and best practices.</p>
-
-<img  alt="IMAGE" align="right" width="350px"  src="content/Code-typing-bro.svg" />
-
-<br>
-
-- ⏳ I’m currently studying a **Front End Developer**
+- 🔥 A **Front End Developer**
 
 - 📥 How to reach me **pro.cyber.gr@gmail.com**
 
@@ -21,7 +15,7 @@
 <br>
 <br>
 
-## 🧰 Backup (languages and tools)
+## 🧰 toolbox (languages and tools)
 
 <img align="left" title="Git" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" title="Bash" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
