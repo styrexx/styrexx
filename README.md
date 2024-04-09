@@ -36,7 +36,7 @@ I’m an exceptional Front-End developer who possesses a keen eye for clean and 
 [![Gmail: Abdessamad](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pro.cyber.gr@gmail.com)](mailto:pro.cyber.gr@gmail.com)&nbsp;
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/kop-left)](https://www.frontendmentor.io/profile/kop-left)&nbsp;
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=styrexx&label=Profile%20views&color=yellowgreen&style=for-the-badge" alt="Abdessamad" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=styrexx&label=Profile%20views&color=yellowgreen&style=for-the-badge" alt="Abdessamad" /> </p>
 
 </div>
 
