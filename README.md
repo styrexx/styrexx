@@ -2,15 +2,20 @@
 
 `WEB CRAFTER`
 
-## How is Abdessamad ?
+## About Me:
 
-I’m an exceptional Front-End developer who possesses a keen eye for clean and responsive design. with a **commitment to creating fast, scalable, and user-friendly web applications** are truly impressive. I’m **passionate** about providing a great user experience and always strive to **stay up-to-date** with the latest. industry trends and _best practices_.
+- 🕶 Hi, My name is Abdessamad
 
 - 🔥 A **Front End Developer**
 
+- 👀 Passion about programming and creating a fast, scalable and user-friendly web
+  site and providing a great user experience
+
 - 📥 How to reach me **pro.cyber.gr@gmail.com**
 
-- 🌟 Fun fact : I love build something new `Idea\\Project\\Real ✦ `
+- 🌱 I’m currently learning ReactJS & Tailwind CSS.
+
+- 🌟 Fun fact : I love the idea of building new think: `Idea\\Project\\Real ✦ `
 
 <br>
 <br>
@@ -34,9 +39,6 @@ I’m an exceptional Front-End developer who possesses a keen eye for clean and 
 <div align= "center">
 
 [![Gmail: Abdessamad](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pro.cyber.gr@gmail.com)](mailto:pro.cyber.gr@gmail.com)&nbsp;
-[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/kop-left)](https://www.frontendmentor.io/profile/kop-left)&nbsp;
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=styrexx&label=Profile%20views&color=yellowgreen&style=for-the-badge" alt="Abdessamad" /> </p>
 
 </div>
 
