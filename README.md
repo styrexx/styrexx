@@ -1,8 +1,6 @@
-<h1>Abdessamad / styrexx </h1>
-
 `WEB CRAFTER`
 
-## About Me:
+### About Me:
 
 🕶 Hi, My name is Abdessamad
 
@@ -17,9 +15,9 @@ site and providing a great user experience
 
 🌟 Fun fact : I love the idea of building new think: `Idea\\Project\\Real ✦ `
 
-<br>
+<hr>
 
-## 🧰 Toolbox (languages and tools)
+### 🧰 Toolbox (languages and tools)
 
 <img align="left" title="JavaScript" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" title="HTML" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -33,7 +31,7 @@ site and providing a great user experience
 <br>
 <br>
 
-## 📮 Contact with ME
+### 📮 Contact with ME
 
 <div align= "center">
 
