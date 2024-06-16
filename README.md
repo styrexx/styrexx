@@ -1,6 +1,6 @@
 `WEB CRAFTER`
 
-### About Me:
+## About Me:
 
 🕶 Hi, My name is Abdessamad
 
@@ -15,9 +15,7 @@ site and providing a great user experience
 
 🌟 Fun fact : I love the idea of building new think: `Idea\\Project\\Real ✦ `
 
-<hr>
-
-### 🧰 Toolbox (languages and tools)
+## 🧰 Toolbox (languages and tools)
 
 <img align="left" title="JavaScript" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" title="HTML" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -29,14 +27,5 @@ site and providing a great user experience
 <img align="left" title="Bash" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
 <br>
-<br>
-
-### 📮 Contact with ME
-
-<div align= "center">
-
-[![Gmail: Abdessamad](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pro.cyber.gr@gmail.com)](mailto:pro.cyber.gr@gmail.com)&nbsp;
-
-</div>
 
 <p align="center" alt="Logo" > ✦ </p>
