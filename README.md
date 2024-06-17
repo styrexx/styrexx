@@ -2,20 +2,20 @@
 
 ## About Me:
 
-🕶 Hi, My name is Abdessamad
+⚠ Hi, My name is Abdessamad.
 
-🔥 A **Front End Developer**
+🔥 A **Front End Developer**.
 
 👀 Passion about programming and creating a fast, scalable and user-friendly web
-site and providing a great user experience
+site and providing a great user experience.
 
-📥 How to reach me **pro.cyber.gr@gmail.com**
+📥 How to reach me **pro.cyber.gr@gmail.com**.
 
 🌱 I’m currently learning ReactJS & Tailwind CSS.
 
 🌟 Fun fact : I love the idea of building new think: `Idea\\Project\\Real ✦ `
 
-## 🧰 Toolbox (languages and tools)
+## Toolbox (languages and tools)
 
 <img align="left" title="JavaScript" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" title="HTML" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
